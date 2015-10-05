@@ -1,0 +1,2 @@
+# Data-Mining-Analysis-and-Sentimental-Analysis-of-data
+Project designed in QT Designer and coded in Python using twitter API to fetch data from twitter. Overcoming the issue of limited fetching from twitter. Also introduced multithreading in order to fetch data based on multiple keywords. After the fetching of the tweets, they were analysed based on the words in the tweets whether positive, negative or neutral. And these analysed tweets were further represented in graphical format using MATLAB.
